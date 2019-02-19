@@ -1,0 +1,20 @@
+///////////////\\\\\\\\\\\\\\\\
+/                             \
+/  Proyecto		      \
+/  -----------                \
+/  Elementos de Programación  \
+/  2ndo Cuatrimestre de 2006  \
+/  Tema 1		      \
+/  -----------                \
+/  Comisión IX		      \
+/  			      \	
+\  Integrantes:		      /
+\   - López, Leandro Jesús      /
+\   - Moretti, Federico	      /
+\   - Palacio, Gerónimo       /
+\   - Portaluppi, Octavio     /
+\  -----------		      /
+\  Ayudante:		      /
+\   - Martinez, Juan Cruz     /
+\			      /
+///////////////\\\\\\\\\\\\\\\\
